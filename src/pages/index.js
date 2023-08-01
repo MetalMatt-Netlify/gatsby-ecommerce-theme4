@@ -42,6 +42,7 @@ const IndexPage = () => {
           This is a demonstration of the Sydney theme for verse by{' '}
           <span className={styles.gold}>matter design.</span>
         </p>
+  <p>Pretty neat, would you agree?</p>
         <p>
           wear by <span className={styles.gold}>sunspel</span> and{' '}
           <span className={styles.gold}>scotch&soda</span>
